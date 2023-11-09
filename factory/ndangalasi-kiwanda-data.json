@@ -1,0 +1,9 @@
+{
+	"name": "ndangalasi-kiwanda-data",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1bda4751-a49c-4a3c-b239-b6b0f2a841ee",
+		"tenantId": "70f290c8-2f85-47fe-b795-82185aff2b5d"
+	}
+}

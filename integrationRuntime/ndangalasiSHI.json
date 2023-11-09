@@ -1,0 +1,10 @@
+{
+	"name": "ndangalasiSHI",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "to connect the sql database ",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": false
+		}
+	}
+}
